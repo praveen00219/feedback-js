@@ -13,7 +13,7 @@ This project is a simple and interactive feedback UI where users can select thei
 
 ## Demo
 
-You can view the live demo of this project [here](#).
+You can view the live demo of this project [here](https://praveen-feedback.netlify.app/).
 
 ## Technologies Used
 
